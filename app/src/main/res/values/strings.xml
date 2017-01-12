@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="name">Vikas Singh</string>
+    <string name="email">vikas2dx@gmail.com</string>
+    <string name="First">First</string>
+    <string name="Second">Second</string>
+    <string name="third">Third</string>
+    <string name="four">Fourth</string>
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+</resources>
