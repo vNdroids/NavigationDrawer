@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">NavigationDrawer</string>
-    <string name="name">vNdroids</string>
+    <string name="name">Name: vNdroids</string>
     <string name="email">vNdroids.blogspot.com</string>
     <string name="First">First</string>
     <string name="Second">Second</string>
